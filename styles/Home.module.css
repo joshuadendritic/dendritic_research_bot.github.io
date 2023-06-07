@@ -18,6 +18,13 @@
   position: relative;
 }
 
+.backgroundImage {
+  background-image: url("/Users/joshua/Hacker/gpt4-pdf-chatbot-langchain/public/AdobeStock_170601825 (1).jpeg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 .textarea {
   position: relative;
   resize: none;
